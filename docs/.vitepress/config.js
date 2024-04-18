@@ -12,7 +12,7 @@ export default {
   // },
 
   lang: "zh", // 中文，英文设置en-US
-  title: "鹤屿编程学习笔记", // 浏览器标签标题
+  title: "编程学习笔记", // 浏览器标签标题
   description:
     "软件开发计：开发文档和开发计划，完成功能工具，和待开发的功能和工具",
   base: "/Blogs", // url默认前缀
