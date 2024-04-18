@@ -4,7 +4,7 @@
 set -e
 
 # 打包生成静态文件
-pnpm run docs:build
+npm run docs:build
 
 # 进入生成的文件夹
 cd docs/.vitepress/dist
@@ -20,7 +20,7 @@ git commit -m "GitHub Action 自动部署：$time"
 
 # # 如果发布到 https://<USERNAME>.github.io   -f 强制推送
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
-git push -f git@github.com/saviour2008/Blogs.git master:gh-pages # 发布到Gitee
+git push -f git@github.com:saviour2008/Blogs.git master:gh-pages # 发布到Gitee
 # git push -f git@github.com:muyaCode/program-learn-notes.git master:gh-pages # 发布到GitHub
 
 # 退出到本项目根目录
