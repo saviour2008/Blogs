@@ -15,7 +15,7 @@ export default {
   title: "鹤屿编程学习笔记", // 浏览器标签标题
   description:
     "软件开发计：开发文档和开发计划，完成功能工具，和待开发的功能和工具",
-  base: "/program-learn-notes", // url默认前缀
+  base: "/Blogs", // url默认前缀
   appearance: true, // 暗黑模式
   ignoreDeadLinks: true, // 不会因死链接而使构建失败
   lastUpdated: true, // 使用 git 提交获取时间戳，使默认主题能够显示页面的上次更新时间
