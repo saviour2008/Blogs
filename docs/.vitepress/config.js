@@ -46,7 +46,7 @@ export default {
   // 文档：https://vitepress.vuejs.org/config/theme-configs
   themeConfig: {
     logo: "/img/buding.svg",
-    siteTitle: "鹤屿编程学习笔记", // 网站左上角标题
+    siteTitle: "编程学习笔记", // 网站左上角标题
     outlineTitle: "⚡️文档内容大纲", // 大纲标题
     outline: "deep", // 大纲显示层级：number：只显示 | [number, number]：指定层级范围显示 | 'deep'：全部显示 | false：不显示
 

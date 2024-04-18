@@ -20,18 +20,18 @@ export default {
           text: "",
           link: "/Document/Java/",
         },
-      ]
+      ],
     },
     {
-      text: "🌟C#",
+      text: "🌟React",
       collapsible: true, // 可折叠
       collapsed: true, // 初始不折叠
       items: [
         {
-          text: "",
-          link: "/Document/C#/",
+          text: "疑难杂症",
+          link: "/Document/React/",
         },
-      ]
+      ],
     },
     {
       text: "🌟Go",
@@ -42,7 +42,7 @@ export default {
           text: "",
           link: "/Document/Go/",
         },
-      ]
+      ],
     },
     {
       text: "🌟Python",
@@ -61,7 +61,7 @@ export default {
           text: "",
           link: "/Document/Python/",
         },
-      ]
+      ],
     },
     {
       text: "🌟Mojo",
@@ -84,7 +84,7 @@ export default {
           text: "",
           link: "/Document/Mojo/",
         },
-      ]
+      ],
     },
     {
       text: "🌟PHP",
@@ -95,7 +95,7 @@ export default {
           text: "",
           link: "/Document/PHP/",
         },
-      ]
+      ],
     },
     {
       text: "🌟C/C++",
@@ -106,7 +106,7 @@ export default {
           text: "",
           link: "/Document/C-C++/",
         },
-      ]
+      ],
     },
     {
       text: "🌟Rust",
@@ -161,7 +161,7 @@ export default {
           text: "Rust实战",
           link: "/Document/Rust/Rust实战",
         },
-      ]
+      ],
     },
     {
       text: "🌟汇编",
@@ -180,7 +180,7 @@ export default {
           text: "",
           link: "/Document/汇编/",
         },
-      ]
+      ],
     },
-  ]
-}
+  ],
+};
