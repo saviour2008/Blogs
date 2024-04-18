@@ -3,11 +3,11 @@
 
 layout: home
 
-title: 鹤屿编程学习笔记
+title: 编程学习笔记
 titleTemplate: 记录自己的编程学习笔记
 
 hero:
-  name: 鹤屿编程学习笔记
+  name: 编程学习笔记
   # text: 记录自己的编程学习笔记
   tagline: "正在开发中"
   # 首页右边Logo设置
